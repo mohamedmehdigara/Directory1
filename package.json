@@ -8,6 +8,7 @@
   "author": "Mohamed Mehdi Gara",
   "license": "ISC",
   "description": "",
+  "repository": "https://github.com/mohamedmehdigara/Directory1/tree/master",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
   }
