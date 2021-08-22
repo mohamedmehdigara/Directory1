@@ -1,0 +1,11 @@
+{
+  "name": "@mohamedmehdigara/directory1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohamed Mehdi Gara",
+  "license": "ISC",
+  "description": ""
+}
